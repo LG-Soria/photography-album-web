@@ -2,7 +2,7 @@
   "name": "photography-album-web",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://lg-soria.github.io/photography-album-web/",
+  "homepage": "https://lg-soria.github.io/photography-album-web/",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@material-tailwind/react": "^1.4.2",
