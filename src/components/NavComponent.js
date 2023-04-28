@@ -25,7 +25,7 @@ export default function Example() {
         color="blue-gray"
         className="p-3 font-bold"
       >
-        <a href="#" className="flex items-center">
+        <a href="#home" className="flex items-center">
           Home
         </a>
       </Typography>
@@ -35,7 +35,7 @@ export default function Example() {
         color="blue-gray"
         className="p-3 font-bold"
       >
-        <a href="#" className="flex items-center">
+        <a href="#about" className="flex items-center">
           About
         </a>
       </Typography>

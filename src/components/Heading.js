@@ -2,7 +2,7 @@ import headingImg from "../img/image-6.jpg";
 
 const Heading = () => {
   return (
-<section className="flex justify-center">
+<section id="#home" className="flex justify-center">
 <div 
 className="d-flex flex-col bg-[#000] text-white 
 lg:flex lg:max-h-80 lg:flex-row ">

@@ -4,7 +4,6 @@ import TextSection from "./components/TextSection"
 import { NavBar } from './components/NavBar';
 import ImagesCollection from './components/ImagesCollection';
 import AboutSection from "./components/AboutSection"
-import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
 
 
