@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc96517d.css",
+    "main.js": "/static/js/main.30a7bc0b.js",
+    "static/js/787.727e7f34.chunk.js": "/static/js/787.727e7f34.chunk.js",
+    "static/media/image-6.jpg": "/static/media/image-6.d4e363358d191064e9db.jpg",
+    "static/media/hand-shadow.jpg": "/static/media/hand-shadow.421ef5a44c14736b8926.jpg",
+    "index.html": "/index.html",
+    "main.dc96517d.css.map": "/static/css/main.dc96517d.css.map",
+    "main.30a7bc0b.js.map": "/static/js/main.30a7bc0b.js.map",
+    "787.727e7f34.chunk.js.map": "/static/js/787.727e7f34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc96517d.css",
+    "static/js/main.30a7bc0b.js"
+  ]
+}
